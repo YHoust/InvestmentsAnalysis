@@ -4,6 +4,7 @@ import pandas as pd
 
 class InvAnalyst:
 
+    
     def get_stock_details:
             stocks = 1
         return stocks
