@@ -4,7 +4,9 @@ import pandas as pd
 
 class InvAnalyst:
 
-    
-    def get_stock_details:
+    def __init__(self) -> None:
+        pass
+
+    def get_files(path):
             stocks = 1
         return stocks
